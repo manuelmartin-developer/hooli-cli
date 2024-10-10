@@ -51,6 +51,10 @@ const Select: React.FC<{command: string | undefined}> = ({command}) => {
 
 	// Component Lifecycle
 	React.useEffect(() => {
+		if (!command || !options.includes(command.toUpperCase() as ESelect)) {
+			setSelected('SELECT');
+		}
+
 		setIsLoading(false);
 	}, []);
 
