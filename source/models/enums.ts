@@ -1,0 +1,6 @@
+export enum ESelect {
+	INSTALL = 'INSTALL',
+	SCRIPTS = 'SCRIPTS',
+	UNINSTALL = 'UNINSTALL',
+	EXIT = 'EXIT',
+}
