@@ -30,7 +30,7 @@ If no command is provided, the tool will show a list of available commands.
 hooli-cli
 ```
 
-<img src="/assets/images/menu.png"
+<img src="https://res.cloudinary.com/dl1zrb1pw/image/upload/v1728593422/menu_mojwb3.png"
         alt="Picture"
         width="800"
         height="auto"
@@ -44,7 +44,7 @@ hooli-cli install
 
 This command will open a prompt for you to enter the package name you want to install. After entering the package name, a list of available packages will be displayed for you to choose from.
 
-<img src="/assets/images/install.png"
+<img src="https://res.cloudinary.com/dl1zrb1pw/image/upload/v1728593422/install_wgioqm.png"
 		alt="Picture"
 		width="800"
 		height="auto"
@@ -58,7 +58,7 @@ hooli-cli uninstall
 
 This command will show a list of installed packages for you to choose from. After selecting a one, or more, packages to uninstall, the selected packages will be removed from your project.
 
-<img src="/assets/images/uninstall.png"
+<img src="https://res.cloudinary.com/dl1zrb1pw/image/upload/v1728593422/uninstall_qqra8c.png"
 		alt="Picture"
 		width="800"
 		height="auto"
@@ -72,7 +72,7 @@ hooli-cli scripts
 
 This command will show a list of available scripts in your `package.json` file. After selecting a script to run, the selected script will be executed.
 
-<img src="/assets/images/scripts.png"
+<img src="https://res.cloudinary.com/dl1zrb1pw/image/upload/v1728593422/scripts_p2syad.png"
 		alt="Picture"
 		width="800"
 		height="auto"
